@@ -23,4 +23,4 @@
 
 gavin.humphrey.pro@gmail.com
 
-![Linkedin](./img/Linkedin.png)
+![Linkedin](./img/Linkedin.jpg)
