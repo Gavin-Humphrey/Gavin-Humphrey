@@ -1,5 +1,6 @@
 ![Gavin Humphrey Github Barner](./img/GmGit.jpg)
 
+
 # 👋 **Hi, I’m Gavin Humphrey**
 
 🙎🏻‍♀️ I am a web developer with front-end development skills
@@ -22,5 +23,5 @@
 
 gavin.humphrey.pro@gmail.com
 
-![Linkedin](https://www.linkedin.com/in/gavin-humphrey-b2289122b/)
+![./img/Linkedin.png](https://www.linkedin.com/in/gavin-humphrey-b2289122b/)
 
