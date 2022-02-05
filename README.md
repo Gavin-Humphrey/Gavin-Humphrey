@@ -23,4 +23,3 @@
 
 gavin.humphrey.pro@gmail.com
 
-<a img src="./img/Linkedin.jpg" href="https://www.linkedin.com/in/gavin-humphrey-b2289122b/"></a>
