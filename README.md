@@ -1,5 +1,4 @@
-![Gavin Humphrey Github Barner](img/Github-ReadMe-Barner-GmGit.jpg)
-
+![Gavin Humphrey Github Barner](./img/GmGit.jpg)
 👋 Hi, I’m Gavin Humphrey
 
 🙎🏻‍♀️ I am a web developer with front-end development skills
