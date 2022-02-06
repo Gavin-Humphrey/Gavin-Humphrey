@@ -16,15 +16,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
-![Git]
-![Visual Studio Code]
+
 
 ## 📫 **Contact me:**
 
-<a href="gavin.humphrey.pro@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
-
 <a href="https://www.linkedin.com/in/gavin-humphrey-b2289122b/"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
+
+gavin.humphrey.pro@gmail.com
+
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=GmGith&theme=blue-green
 
 
