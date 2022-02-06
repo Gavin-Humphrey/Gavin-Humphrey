@@ -21,9 +21,8 @@
 
 ## 📫 **Contact me:**
 
-<a href="gavin.humphrey.pro">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-alt="Gmail Badge"></a>
+gavin.humphrey.pro@gmail.com
+
 
 <a href="https://www.linkedin.com/in/gavin-humphrey-b2289122b/"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
