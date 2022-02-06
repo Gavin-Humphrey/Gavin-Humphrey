@@ -5,7 +5,7 @@
 
 🙎🏻‍♀️ I am a web developer with front-end development skills
 
-## 🤯 **Skills:**
+## 🤯 **Skills**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -17,7 +17,13 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
 
-## 📫 **Contact me:**
+
+## 📊 **Github Stats**
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GmGith&theme=blue-green)
+
+
+## 📫 **Contact me**
 
 <a href="https://www.linkedin.com/in/gavin-humphrey-b2289122b/"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
@@ -26,6 +32,6 @@ gavin.humphrey.pro@gmail.com
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GmGith&theme=blue-green)
+
 
 
