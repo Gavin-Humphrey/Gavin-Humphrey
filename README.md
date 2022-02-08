@@ -20,9 +20,9 @@
 
 ## 📊 **Github Stats**
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ReadMe-portfolio&theme=blue-green)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gavin-Humphrey&theme=blue-green)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ReadMe-portfolio&theme=blue-green)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Gavin-Humphrey&theme=blue-green)
 
 
 ## 📫 **Contact me**
