@@ -20,9 +20,9 @@
 
 ## 📊 **Github Stats**
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GmGith&theme=blue-green)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ReadMe-portfolio&theme=blue-green)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=GmGith&theme=blue-green)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ReadMe-portfolio&theme=blue-green)
 
 
 ## 📫 **Contact me**
