@@ -1,4 +1,4 @@
-![Gavin Humphrey Github Barner](./img/GmGit.jpg)
+![Gavin Humphrey Github Barner](./img/ImgGit.jpg)
 
 
 # 👋 **Hi, I’m Gavin Humphrey**
