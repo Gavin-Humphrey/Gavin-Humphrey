@@ -28,19 +28,22 @@
 - [![Gmail](https://img.shields.io/badge/Gmail-Click%20Here-red?style=flat-square&logo=gmail)](mailto:gavin.humphrey.pro@gmail.com)<br><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gavin-humphrey&label=Profile%20views&color=0e75b6&style=flat" alt="gavin-humphrey" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gavin-humphrey&label=Profile%20views&color=0e75b6&style=flat" alt="gavin-humphrey" /> </p>
 
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gavin-humphrey&theme=darkhub" alt="gavin-humphrey" />
   </a>
 </p>
 
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=gavin-humphrey&show_icons=true&locale=en&layout=compact&theme=dark) ![Gavin-Humphrey's Github Stat](https://github-readme-stats.vercel.app/api?username=gavin-humphrey&show_icons=true&locale=en&theme=dark)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gavin-humphrey&show_icons=true&locale=en&layout=compact&theme=dark" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gavin-humphrey&show_icons=true&locale=en&theme=dark" height="200" />
+</div>
 
 
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=gavin-humphrey&theme=dark)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavin-humphrey&theme=dark" />
+</div>
