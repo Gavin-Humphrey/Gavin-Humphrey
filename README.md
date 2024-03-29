@@ -18,7 +18,7 @@
 
 <h2>Projects</h2> 
 
-- **I just finished working on a film streaming and evaluating application called Film-Junkiez. Click [Film-Junkiez](https://github.com/Gavin-Humphrey/filmjunkiez) for more.**<br>
+- **I just finished working on a film streaming and evaluation application called Film-Junkiez. Click [Film-Junkiez](https://github.com/Gavin-Humphrey/filmjunkiez) for more.**<br>
 
 
 <h2> Contact</h2>
