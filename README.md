@@ -39,10 +39,10 @@
 
 
 <div style="display: flex; justify-content: center;">
-<div style="width: 150px;">
+<div style="width: 200px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gavin-humphrey&show_icons=true&locale=en&layout=compact&theme=dark" height="200"/>
   </div>
-  <div style="width: 200px;">
+  <div style="width: 260px;">
   <img src="https://github-readme-stats.vercel.app/api?username=gavin-humphrey&show_icons=true&locale=en&theme=dark" height="200"/>
   </div>
 </div>
