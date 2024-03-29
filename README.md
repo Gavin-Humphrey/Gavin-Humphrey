@@ -1,0 +1,39 @@
+<h1 align="center">Hi 👋, I'm Gavin</h1>
+<h4 align="center">I’m a passionate Python App developer with a keen interest in building robust and scalable web applications. I am from France.</h4>
+
+---
+<br>
+
+<h2>Tech Stack</h2></summary><br>
+
+- **Programming Languages:** [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br>
+- **Markup Languages:** [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)<br>
+- **Stylesheet Languages:** [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)<br>
+- **Web Frameworks:** [![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Django REST Framework Badge](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white)](http://link_to_your_django_rest_framework) [![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)<br>
+- **Frontend Frameworks:** [![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)<br>
+- **Databases:** [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)<br>
+- **Version Control:** [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)<br>
+- **Other Tools:** [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/) [![CircleCI Badge](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)](https://circleci.com/) [![Cloudinary Badge](https://img.shields.io/badge/Cloudinary-013243?style=flat-square&logo=cloudinary&logoColor=white)](https://cloudinary.com/) [![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/) [![Sketch Badge](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)](https://www.sketch.com/) [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/) <br> 
+
+
+<h2>Projects</h2> <br>
+
+- **I just finished working on a film streaming and evaluating application called Film-Junkiez. Click [Film-Junkiez](https://github.com/Gavin-Humphrey/filmjunkiez) for more.**<br>
+
+
+<h2> Contact</h2><br>
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gavin-humphrey-b2289122b/)<br>
+
+- [![Gmail](https://img.shields.io/badge/Gmail-Click%20Here-red?style=flat-square&logo=gmail)](mailto:gavin.humphrey.pro@gmail.com)
+
+
+--- 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gavin-humphrey&label=Profile%20views&color=0e75b6&style=flat" alt="gavin-humphrey" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavin-humphrey" alt="gavin-humphrey" /></a> </p>
+
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=gavin-humphrey&show_icons=true&locale=en&layout=compact) ![Gavin-Humphrey's Github Stat](https://github-readme-stats.vercel.app/api?username=gavin-humphrey&show_icons=true&locale=en)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=gavin-humphrey&)
