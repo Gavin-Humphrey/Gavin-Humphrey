@@ -38,9 +38,9 @@
 </p>
 
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=gavin-humphrey&show_icons=true&locale=en&layout=compact&theme=dark)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=gavin-humphrey&show_icons=true&locale=en&layout=compact&theme=dark) ![Gavin-Humphrey's Github Stat](https://github-readme-stats.vercel.app/api?username=gavin-humphrey&show_icons=true&locale=en&theme=dark)
 
-![Gavin-Humphrey's Github Stat](https://github-readme-stats.vercel.app/api?username=gavin-humphrey&show_icons=true&locale=en&theme=dark)
+
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gavin-humphrey&theme=dark)
