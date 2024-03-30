@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gavin</h1>
-<h4 align="center">I’m a passionate Python App developer with a keen interest in building robust and scalable web applications. I am from France.</h4>
+<h2 align="center">I’m a passionate Python App. Developer with a keen interest in building robust and scalable web applications. I am from France.</h2>
 
 ---
 <br>
