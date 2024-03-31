@@ -22,7 +22,7 @@
 
 <div align= center>
   <h5>Demo</h5>
-  <img src="img/app.gif" alt="app gif" />
+  <img src="img/Film-Junkiez-Demo.gif" alt="Film-Junkiez-Demo gif" />
 </div>
 
 <h2> Contact</h2>
