@@ -2,6 +2,8 @@
 <h2 align="center">I’m a passionate Python App. Developer with a keen interest in building robust and scalable web applications. I am from France.</h2>
 
 ---
+
+
 <br>
 
 <h2>Tech Stack</h2>
@@ -25,6 +27,7 @@
   <img src="img/Film-Junkiez-Demo.gif" alt="Film-Junkiez-Demo gif" />
 </div>
 
+
 <h2> Contact</h2>
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gavin-humphrey-b2289122b/)<br>
@@ -35,7 +38,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gavin-humphrey&label=Profile%20views&color=0e75b6&style=flat" alt="gavin-humphrey" /> </p>
 
 
-<p align="center">
+<p styles="border-radius: 5px;" align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gavin-humphrey&theme=darkhub" alt="gavin-humphrey" />
   </a>
