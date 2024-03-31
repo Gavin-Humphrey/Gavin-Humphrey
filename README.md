@@ -20,6 +20,10 @@
 
 - **I just finished working on a film streaming and evaluation application called Film-Junkiez. Click [Film-Junkiez](https://github.com/Gavin-Humphrey/filmjunkiez) for more.**<br>
 
+**Demo**
+<p align="center">
+    <img src="img/app.gif" alt="app demo" />
+</p>
 
 <h2> Contact</h2>
 
