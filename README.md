@@ -1,10 +1,4 @@
-<div style="position: relative;">
-  <img src="img/profile-banner.jpg" alt="profile-banner" width="100%" style="display: block;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: #ffffff;">
-    <h1 style="color: #ffffff;">Hi 👋, This is Gavin!</h1>
-    <h2 style="color: #ffffff;">I’m a passionate Python App. Developer with a keen interest in building robust and scalable web applications. I am from France.</h2>
-  </div>
-</div>
+![Banner with Text](img/Profile-b.jpg)
 
 <br>
 
