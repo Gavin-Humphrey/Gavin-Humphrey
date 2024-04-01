@@ -1,4 +1,4 @@
-<div align= center>
+<div align= center  style="position: relative;">
   <img src="img/profile-banner.jpg" alt="profile-banner" width="10000" height="400"/>
   <div style="position: absolute; top: 50%; ">  
  <h1 style="color: #ffffff; width: 80%; margin: 0 auto;">Hi 👋, This is Gavin!</h1>
@@ -6,6 +6,7 @@
   </h2>
 </div>
 </div>
+
 
 <br>
 
