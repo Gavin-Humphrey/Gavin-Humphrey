@@ -1,5 +1,6 @@
-![Banner with Text](img/Profile-b.jpg)
-
+<div align= center>
+  <img src="img/profile-banner.png" alt="profile-banner" width="10000" height="400"/>
+</div>
 <br>
 
 <h2>💻 Tech Stack</h2>
