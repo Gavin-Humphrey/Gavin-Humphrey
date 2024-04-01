@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, This is Gavin!</h1>
-<h2 align="center">I’m a passionate Python App. Developer with a keen interest in building robust and scalable web applications. I am from France.</h2>
-
+<div align= center>
+  <img src="img/profile-banner.jpg" alt="profile-banner" width="10000" height="400"/>
+  <div style="position: absolute; top: 50%; ">  
+ <h1 style="color: #ffffff; width: 80%; margin: 0 auto;">Hi 👋, This is Gavin!</h1>
+  <h2 align=center style="color: #ffffff; width: 80%; margin: 0 auto;">I’m a passionate Python App. Developer with a keen interest in building robust and scalable web applications. I am from France.
+  </h2>
+</div>
+</div>
 
 <br>
 
