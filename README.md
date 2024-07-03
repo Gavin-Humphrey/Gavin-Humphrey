@@ -15,9 +15,12 @@
 - **Other Tools:** [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/) [![CircleCI Badge](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)](https://circleci.com/) [![Cloudinary Badge](https://img.shields.io/badge/Cloudinary-013243?style=flat-square&logo=cloudinary&logoColor=white)](https://cloudinary.com/) [![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/) [![Sketch Badge](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)](https://www.sketch.com/) [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/) <br> 
 
 
-<h2>💻 Projects</h2> 
+<h2>💻 Projects</h2>
 
-- **I just finished working on a film streaming and evaluation application called Film-Junkiez. Click [Film-Junkiez](https://github.com/Gavin-Humphrey/filmjunkiez) for more.**<br>
+- **I just finished working on an Artists e-commerce and custom services gallery called Live-Art-Corner. Click
+[Live-Art_Corner](https://github.com/Gavin-Humphrey/liveartcorner) for more. Demo will be uploaded sonner.**<br> 
+
+- **You can also find a film streaming and evaluation application called Film-Junkiez, by clicking [Film-Junkiez](https://github.com/Gavin-Humphrey/filmjunkiez).**<br>
 
 <div align= center>
   <h5>Demo</h5>
