@@ -17,7 +17,7 @@
 
 <h2>💻 Projects</h2>
 
-- **I just finished working on an Artists e-commerce and custom services gallery called Live-Art-Corner. Click
+- **I just finished working on an application, for Artists' e-commerce and custom services gallery, called Live-Art-Corner. Click
 [Live-Art_Corner](https://github.com/Gavin-Humphrey/liveartcorner) for more. Demo will be uploaded sonner.**<br> 
 
 - **You can also find a film streaming and evaluation application called Film-Junkiez, by clicking [Film-Junkiez](https://github.com/Gavin-Humphrey/filmjunkiez).**<br>
