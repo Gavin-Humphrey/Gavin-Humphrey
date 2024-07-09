@@ -18,7 +18,7 @@
 <h2>💻 Projects</h2>
 
 - **I just finished working on an application, for Artists' e-commerce and custom services gallery, called Live-Art-Corner. Click
-[Live-Art_Corner](https://github.com/Gavin-Humphrey/liveartcorner), for github repo. And, [Live-Art-Corner](https://liveartcorner-5afce0fdefed.herokuapp.com/), for the website. Demo will be uploaded soonnest!**<br> 
+[Live-Art-Corner](https://github.com/Gavin-Humphrey/liveartcorner), for github repo. And, [Live-Art-Corner](https://liveartcorner-5afce0fdefed.herokuapp.com/), for the website. Demo will be uploaded soonnest!**<br> 
 
 
 - **You can also click, [Film-Junkiez](https://github.com/Gavin-Humphrey/filmjunkiez), to find the github repo of, a film streaming and evaluation application called Film-Junkiez. And, [Film-Junkiez](https://film-junkiez-be8d3d00a54d.herokuapp.com/), for its website**<br>
