@@ -45,25 +45,21 @@
   </a>
 </p> -->
 
+<!-- GitHub Trophy Badge -->
+
 <p style="border-radius: 5px;" align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-trophy-gh.vercel.app/?username=gavin-humphrey&theme=darkhub" alt="gavin-humphrey" />
   </a>
 </p>
 
-
-
-<!-- <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gavin-humphrey&show_icons=true&locale=en&layout=compact&theme=dark" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gavin-humphrey&show_icons=true&locale=en&theme=dark" height="200"/>
-</div> -->
-
-
+<!-- GitHub Stats -->
 <div style="display: flex; justify-content: center;">
   <img src="https://readme-stats-gh.vercel.app/api/top-langs?username=gavin-humphrey&layout=compact&theme=dark" height="200"/>
   <img src="https://readme-stats-gh.vercel.app/api?username=gavin-humphrey&show_icons=true&theme=dark" height="200"/>
 </div>
 
+<!-- ----------------- -->
 
 <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavin-humphrey&theme=dark" height="200"/>
