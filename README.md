@@ -48,12 +48,16 @@
 
 <!-- GitHub Stats -->
 
-<div style="display: flex; justify-content: center; margin: 0 auto;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats-delta-seven.vercel.app/api?username=Gavin-Humphrey&theme=blue-green" height="200"/>
   <img src="https://github-readme-stats-delta-seven.vercel.app/api/top-langs/?username=Gavin-Humphrey&theme=blue-green" height="200"/>
 </div>
 
 
-<div style="display: flex; justify-content: center;">
+<!-- <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavin-humphrey&theme=dark" height="200"/>
-</div>
+</div> -->
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gavin-humphrey&theme=dark)
+
+
