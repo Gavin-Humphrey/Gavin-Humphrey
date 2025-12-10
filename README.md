@@ -39,11 +39,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gavin-humphrey&label=Profile%20views&color=0e75b6&style=flat" alt="gavin-humphrey" /> </p>
 
 <!-- GitHub Trophy Badge -->
-
+<!-- 
 <p style="border-radius: 5px;" align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-blond-kappa.vercel.app/?username=gavin-humphrey&theme=darkhub
     " alt="gavin-humphrey" />
+  </a>
+</p> -->
+
+<p style="border-radius: 5px;" align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-blond-kappa.vercel.app/?username=gavin-humphrey&theme=darkhub" alt="gavin-humphrey" />
   </a>
 </p>
 
