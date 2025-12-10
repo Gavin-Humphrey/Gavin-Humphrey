@@ -47,9 +47,9 @@
 
 
 <!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; height: 285;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats-delta-seven.vercel.app/api?username=Gavin-Humphrey&theme=blue-green" height="285"/>
-  <img src="https://github-readme-stats-delta-seven.vercel.app/api/top-langs/?username=Gavin-Humphrey&theme=blue-green" height="285"/>
+  <img src="https://github-readme-stats-delta-seven.vercel.app/api/top-langs/?username=Gavin-Humphrey&theme=blue-green"/>
 </div>
 
 
