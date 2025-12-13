@@ -4,8 +4,6 @@
 
 <br>
 
-<!-- <h1 align="center">Gavin Humphrey</h1> -->
-
 <p align="center">
   <strong>Python Backend Engineer • Django Developer • Full-Stack Web Engineer</strong>
 </p>
@@ -15,9 +13,14 @@
   focusing on clean architecture, performance, and production-ready systems.
 </p>
 
+<p align="center">
+  Experience building real-world platforms for e-commerce, media streaming, 
+  and IT Training & Consulting systems used in production.
+</p>
+
 ---
 
-<h2>💻 Tech Stack</h2>
+## 💻 Tech Stack
 
 - **Programming Languages:**  
   [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -59,7 +62,33 @@
 
 ---
 
-<h2>🚀 Projects</h2>
+## 🚀 Projects
+
+### 💼 Global Solutech – IT Training & Consulting Platform  
+**Professional IT Training & Consulting web platform**
+
+- Client: **Global Solutech**  
+- Role: **Lead Backend & Full-Stack Engineer**  
+- Stack: **Python, Django, REST APIs, PostgreSQL, Docker, Cloud**  
+- Status: **Designed, developed & deployed (Production)**  
+
+**Overview**
+- Built a full-stack IT training and consulting platform from scratch  
+- Implemented secure authentication, role-based access, and API architecture  
+- Developed course management, quizzes, discussions, and dashboards  
+- Deployed using containerized infrastructure with CI/CD best practices  
+
+**Key Responsibilities**
+- Backend architecture & database design  
+- API development & system integration  
+- Deployment, monitoring & production readiness  
+- Frontend–backend integration  
+
+> 🔒 Source code private (client ownership)  
+> 🔗 Live Platform: [https://globalsolutech.com/](https://globalsolutech.com/)  
+> *Note: Feature set may differ from original implementation*
+
+---
 
 ### 🎨 Live-Art-Corner  
 **Artists’ e-commerce & custom services platform**
@@ -92,14 +121,14 @@
 
 ---
 
-<h2>📇 Contact</h2>
+## 📇 Contact
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gavin-humphrey-b2289122b/)
 - [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=flat-square&logo=gmail)](mailto:gavin.humphrey.pro@gmail.com)
 
 ---
 
-<h2>📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gavin-humphrey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -108,7 +137,7 @@
 
 ---
 
-<h2>🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gavin-humphrey&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
@@ -116,7 +145,7 @@
 
 ---
 
-<h2>🔥 GitHub Contribution Streak</h2>
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavin-humphrey&theme=tokyonight&hide_border=true"/>
