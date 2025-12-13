@@ -15,7 +15,7 @@
 
 <p align="center">
   Experience building real-world platforms for e-commerce, media streaming, 
-  and IT Training & Consulting systems used in production.
+  and IT Training & Consulting (MLS) systems used in production.
 </p>
 
 ---
@@ -64,29 +64,55 @@
 
 ## 🚀 Projects
 
-### 💼 Global Solutech – IT Training & Consulting Platform  
-**Professional IT Training & Consulting web platform**
+### 💼 Global Solutech – IT Consulting & IT Training (MLS) Platform  
+**Comprehensive IT Training and Consulting platform for students and staff**
 
 - Client: **Global Solutech**  
 - Role: **Lead Backend & Full-Stack Engineer**  
-- Stack: **Python, Django, REST APIs, PostgreSQL, Docker, Cloud**  
+- Stack: **Python, Django, REST APIs, PostgreSQL, Docker, Cloud, Whereby**  
 - Status: **Designed, developed & deployed (Production)**  
 
-**Overview**
-- Built a full-stack IT training and consulting platform from scratch  
-- Implemented secure authentication, role-based access, and API architecture  
-- Developed course management, quizzes, discussions, and dashboards  
-- Deployed using containerized infrastructure with CI/CD best practices  
+**Platform Overview**
+- Full-stack IT Training & Consulting (MLS) platform built from scratch  
+- Secure authentication and role-based access for **students** and **staff**  
+
+**Students Dashboard**
+- Access to **lessons, quizzes, hands-on activities, and assignments**  
+- **Progress tracking** and realtime **performance monitoring**  
+- Interactive **discussion forums** and live chatrooms  
+- Virtual classroom sessions powered by **Whereby**  
+- Real-time notifications for lessons, quizzes, assignments, and discussions  
+
+**Staff Dashboard**
+- Course and lesson management  
+- Monitoring student **progress, attendance, and performance**  
+- Evaluation of **hands-on activities and assignments**  
+- Managing discussions and providing guidance in live chatrooms  
+
+**Virtual Classroom**
+- Live sessions integrated with **Whereby** for real-time teaching  
+- Teacher-student interaction, attendance tracking, and session recording  
+
+**Realtime Chatrooms**
+- Main discussion channels for general course topics  
+- Student-created discussion threads (“tickets”)  
+- Private messaging within the same course groups  
+
+**Quizzes and Assessments**
+- Lesson-based quizzes with automated progress validation  
+- Hands-on tasks and assignments graded virtually by staff  
+- Overall course completion validated through performance metrics  
 
 **Key Responsibilities**
 - Backend architecture & database design  
-- API development & system integration  
-- Deployment, monitoring & production readiness  
-- Frontend–backend integration  
+- API development & integration for all platform features  
+- Frontend–backend integration and UI consistency  
+- Virtual classroom and real-time messaging system integration  
+- Deployment, monitoring, and production readiness using Docker & CI/CD pipelines  
 
 > 🔒 Source code private (client ownership)  
 > 🔗 Live Platform: [https://globalsolutech.com/](https://globalsolutech.com/)  
-> *Note: Feature set may differ from original implementation*
+> *Note: Feature set may differ slightly from original implementation*
 
 ---
 
