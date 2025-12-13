@@ -157,8 +157,10 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gavin-humphrey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavin-humphrey&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gavin-humphrey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&exclude_repo=gavin-humphrey" height="165"/>
+  
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavin-humphrey&layout=compact&theme=tokyonight&hide_border=true&count_private=true&exclude_repo=gavin-humphrey" height="165"/>
 </div>
 
 ---
@@ -174,7 +176,7 @@
 ## 🔥 GitHub Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavin-humphrey&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavin-humphrey&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
