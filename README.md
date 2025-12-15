@@ -170,12 +170,9 @@
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gavin-humphrey&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
 </div> -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://xiaohuohumax.github.io/readme-widget-hub/widgets/github/github-profile-trophy/?username=gavin-humphrey&theme=tokyonight" alt="GitHub Trophies"/>
-</div>
-
-
-
+</div> -->
 
 ---
 
